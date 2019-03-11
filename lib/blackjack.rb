@@ -46,24 +46,7 @@ end
 
 def invalid_command
   puts "Please enter a valid command."
-# prompt_user
-#  user_input = get_user_input
-#  if user_input == "h" || user_input == "s"
-#  invalid_command
-#  else
-##  "Please enter a valid command"
-#  end
-#  prompt_user
-#  user_input = get_user_input
-#  unless user_input == "s"
-#  elsif user_input == "h"
-#  number = deal_card + number
-#  else
-  # invalid_command
-  #    prompt_user
-#   end
-  # number
-# prompt_user
+
 end
 
 #####################################################
